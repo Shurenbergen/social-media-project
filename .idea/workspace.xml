@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1148f918-c9a8-4036-b82c-bbd1e8bf5b9d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="my-app" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupnpm">
+      <scroll-view-position x="0" y="0" />
+      <selected-paths>
+        <path>
+          <id value="$PROJECT_DIR$/package.json" />
+          <id value="start" />
+        </path>
+      </selected-paths>
+    </layout>
+  </component>
+  <component name="ProjectId" id="1i09KGQ8IiV0sr5VLcBtTJhAhnI" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="ter&#9;ACTION&#9;ActivateTerminalToolWindow" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.last.introduce.type" value="VAR" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/react-scripts" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Shamekhin\PROJECTS\01First\my-app\src\hoc" />
+      <recent name="C:\Shamekhin\PROJECTS\01First\my-app\src\components\common\Paginator" />
+      <recent name="C:\Shamekhin\PROJECTS\01First\my-app\src\components\Profile\ProfileInfo" />
+      <recent name="C:\Shamekhin\PROJECTS\01First\my-app\src\components\Users" />
+      <recent name="C:\Shamekhin\PROJECTS\01First\my-app\src\redux" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Shamekhin\PROJECTS\01First\my-app\src\components\common\Paginator" />
+      <recent name="C:\Shamekhin\PROJECTS\01First\my-app\src\components\Dialogs\AddMessageForm" />
+      <recent name="C:\Shamekhin\PROJECTS\01First\my-app\src\components\Profile" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Jest.Paginator component test">
+    <configuration name="Paginator component test" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/src/components/common/Paginator/Paginator.test.js" />
+      <test-names>
+        <test-name value="Paginator component test" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Paginator component test.pages count is 11 but should be showed only 10" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/components/common/Paginator/Paginator.test.js" />
+      <test-names>
+        <test-name value="Paginator component test" />
+        <test-name value="pages count is 11 but should be showed only 10" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="ProfileStatus component.After creation span should contains correct status" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileStatus.test.jsx" />
+      <test-names>
+        <test-name value="ProfileStatus component" />
+        <test-name value="After creation span should contains correct status" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="ProfileStatus component.callback should be called" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileStatus.test.jsx" />
+      <test-names>
+        <test-name value="ProfileStatus component" />
+        <test-name value="callback should be called" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="ProfileStatus component.input should be displayed in editMode instead of span" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileStatus.test.jsx" />
+      <test-names>
+        <test-name value="ProfileStatus component" />
+        <test-name value="input should be displayed in editMode instead of span" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.Paginator component test" />
+        <item itemvalue="Jest.Paginator component test.pages count is 11 but should be showed only 10" />
+        <item itemvalue="Jest.ProfileStatus component.After creation span should contains correct status" />
+        <item itemvalue="Jest.ProfileStatus component.callback should be called" />
+        <item itemvalue="Jest.ProfileStatus component.input should be displayed in editMode instead of span" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1148f918-c9a8-4036-b82c-bbd1e8bf5b9d" name="Default" comment="" />
+      <created>1599492236702</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599492236702</updated>
+      <workItem from="1599492243798" duration="127201000" />
+      <workItem from="1601033604011" duration="191000" />
+      <workItem from="1601033856918" duration="34000" />
+      <workItem from="1601033909094" duration="11495000" />
+      <workItem from="1601531289255" duration="55906000" />
+      <workItem from="1602860298741" duration="11266000" />
+      <workItem from="1603869677311" duration="732000" />
+      <workItem from="1608963444482" duration="1830000" />
+      <workItem from="1609566197602" duration="54028000" />
+      <workItem from="1610519079583" duration="21242000" />
+      <workItem from="1610975723736" duration="24055000" />
+      <workItem from="1611299950646" duration="12410000" />
+      <workItem from="1611659049544" duration="870000" />
+      <workItem from="1611813824818" duration="7764000" />
+      <workItem from="1612074866539" duration="2622000" />
+      <workItem from="1612158878121" duration="5249000" />
+      <workItem from="1612769022851" duration="94000" />
+      <workItem from="1616476016191" duration="2772000" />
+      <workItem from="1616823768048" duration="13429000" />
+      <workItem from="1616994457946" duration="637000" />
+      <workItem from="1616997165516" duration="4025000" />
+      <workItem from="1617083731580" duration="9991000" />
+      <workItem from="1617361674322" duration="3253000" />
+      <workItem from="1617433372079" duration="1384000" />
+      <workItem from="1617520431380" duration="5018000" />
+      <workItem from="1617603936940" duration="8573000" />
+      <workItem from="1617715486453" duration="21055000" />
+      <workItem from="1617864308372" duration="593000" />
+      <workItem from="1618029301307" duration="5108000" />
+      <workItem from="1618119917684" duration="18654000" />
+      <workItem from="1618317346596" duration="36109000" />
+      <workItem from="1619067631239" duration="4552000" />
+      <workItem from="1619243662836" duration="8899000" />
+      <workItem from="1619591546040" duration="1467000" />
+      <workItem from="1625019440881" duration="112000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
