@@ -25,7 +25,7 @@ const ProfileContainer = React.lazy(() => import("./components/Profile/ProfileCo
 
 class App extends Component {
     catchAllUnhandledErrors = (reason, promise) => {
-        alert("Some error occured");
+        //alert("Some error occured");
         //console.error(promiseRejectionEvent);
     }
     componentDidMount() {
@@ -67,6 +67,7 @@ class App extends Component {
 
                         <Route path='*'
                                render={() => <div>404 NOT FOUND</div>}/>
+                                  <Redirect from="/" to="/profile" /> 
                     </Switch>
                 </div>
 
